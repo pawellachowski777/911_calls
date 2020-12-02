@@ -1,0 +1,8 @@
+# required libraries:
+# write python -m pip install -r requirements.txt to install all packages in your virtual environment
+
+numpy
+pandas
+seaborn
+matplotlib
+pillow
